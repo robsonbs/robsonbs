@@ -9,6 +9,8 @@
 
 ![Snake animation](https://github.com/robsonbs/robsonbs/blob/output/github-contribution-grid-snake.svg)
 
+<a href="https://app.rocketseat.com.br/me/robsonbs"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=robsonbs&type=card" width="280" alt="Robson Barbosa Souza's Rocket ID"/></a>
+
 * 🔭 I’m currently working on IFG
 
 * 💬 Ask me about **React, JavaScript, Java, PHP, HTML, CSS, SQL**
